@@ -1,4 +1,7 @@
 # Minx_AJH
+
+![minx](https://github.com/forestcaver/Minx_AJH/blob/master/minx_01.jpg)
+
 Buffered multiple based on Mutable Instruments Links
 
 v1.1 normals the first input jack to ground (if you have v1.0 boards - it's trivial to just jumper the jack !)
